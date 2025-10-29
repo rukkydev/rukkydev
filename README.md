@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rukkydev
-- 👀 I’m interested in PHP, Laravel, Python & Javascript
+- 👀 I’m interested in PHP, Laravel, Java & Javascript
 - 🌱 I’m currently learning PHP & Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me collinsobaseki0@gmail.com
+- 💞️ I’m looking to collaborate on Coopfinity ...
+- 📫 How to reach me collinsobaseki217@gmail.com
 - 😄 Pronouns: HE/HIM/HIS
 - ⚡ Fun fact: ...
 
